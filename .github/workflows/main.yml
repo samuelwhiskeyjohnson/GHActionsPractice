@@ -1,4 +1,4 @@
-name: CI
+name: workFlow name can be anything!!
 
 on: [push, pull_request]
 
